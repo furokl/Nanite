@@ -44,8 +44,11 @@
 
 ###### Они и придумали виртуальные текстуры (ранее назывались Mega Texture, прижилось Virtual Texture)
 
+![image](resources/pictures/HighResolutionN1-581x430.png)
 
 </details>
+
+<br />
 
 [//]: # (--- Следующая вкладка ---)
 
