@@ -1,7 +1,7 @@
 # Nanite
 
-##### Автор - Nikolai Poliarnyi :
-###### ![image](resources/pictures/Youtube-20x16.png) *Как работает Nanite в Unreal Engine 5*
+##### ![image](resources/pictures/Youtube-20x16.png) Автор - Nikolai Poliarnyi :
+###### *Как работает Nanite в Unreal Engine 5*
 - - -
 
 <details>
