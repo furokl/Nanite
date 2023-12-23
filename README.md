@@ -1,6 +1,11 @@
-<p align="right">
-  <img src="resources/pictures/UnrealEngine-128x128.png" alt="Unreal Engine">
-</p>
+<div style="height: 128px;">
+	<p align="left">
+		Nanite
+	</p>
+	<p align="right">
+		<img src="resources/pictures/UnrealEngine-128x128.png" alt="Unreal Engine">
+	</p>
+</div>
 
 # Nanite
 
