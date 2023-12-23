@@ -4,7 +4,9 @@
 ###### *Как работает Nanite в Unreal Engine 5*
 [![N|Solid](https://opengameart.org/sites/default/files/forum-attachments/Shark1.png)](https://www.youtube.com/watch?v=ltUzX1IR9JI&ab_channel=NikolaiPoliarnyi)
 
-1&frac1;60
+$\frac ab$
+
+${a+1\over b+1}$
 
 - - -
 
