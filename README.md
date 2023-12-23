@@ -4,18 +4,6 @@
 ###### *Как работает Nanite в Unreal Engine 5*
 [![N|Solid](https://opengameart.org/sites/default/files/forum-attachments/Shark1.png)](https://www.youtube.com/watch?v=ltUzX1IR9JI&ab_channel=NikolaiPoliarnyi)
 
-```mermaid
-flowchat 
-st=>start:  Стартовое окно 
-op=>operation:  Коробка обработки 
-cond=>condition:  Ящик суждения(Да или нет?) sub1=>subroutine:  Подпроцесс 
-io=>inputoutput:  Поле ввода и вывода 
-e=>end:  Конечная коробка 
-st->op->cond 
-cond(yes)->io->e 
-cond(no)->sub1(right)->op
-
-
 - - -
 
 <details>
