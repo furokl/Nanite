@@ -8,18 +8,15 @@
 
 <details>
 
-<summary>Список модов (Клиент):</summary>
+<summary>Постановка задачи / мечта</summary>
 
 <font color=Blue size=5>Я синий </ font>
 
-| Кино | Игры |
-| ------ | ------ |
-| Offline | Realtime ${1\over 60}$с |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| - - - | Кино | Игры |
+| ------ | ------ | ------ |
+| Отрисовка | Offline | Realtime ${1\over 60}$ |
+| Скорость обработки | Высокое качество | Бюджет качества |
+| Подготовка ассетов | Оригинал | Упрощаем assets |
 
 </details>
 
