@@ -4,10 +4,6 @@
 ###### *Как работает Nanite в Unreal Engine 5*
 [![N|Solid](https://opengameart.org/sites/default/files/forum-attachments/Shark1.png)](https://www.youtube.com/watch?v=ltUzX1IR9JI&ab_channel=NikolaiPoliarnyi)
 
-$\frac 160$
-
-${1\over 60}$
-
 - - -
 
 <details>
@@ -18,7 +14,7 @@ ${1\over 60}$
 
 | Кино | Игры |
 | ------ | ------ |
-| Offline | Realtime 1/60 |
+| Offline | Realtime ${1\over 60}$с |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
