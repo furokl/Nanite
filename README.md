@@ -82,9 +82,26 @@
 
 <details>
 
-<summary>Highmap resolution №2</summary>
+<summary>Highmap resolution №3</summary>
 
 ![image](resources/pictures/HighResolutionN3-681x544.png)
+
+</details>
+
+<br />
+
+###### Тогда мы будем хранить в видеопамяти только разбитые окрестности.
+> * В конечном итоге должно выйти, что объем видеопамяти равен кол-ву пикселей монитора
+> * Перестаем зависить от разрешения текстуры
+###### НО
+> * ! Мы предполагаем, что можем автоматически определить какие части текстуры нужны
+> * ! Мы предполагаем, что кто-то сам положит в видеопамять эти окрестности
+
+<details>
+
+<summary>Highmap resolution №3</summary>
+
+![image](resources/pictures/HighResolutionN4-666x516.png)
 
 </details>
 
