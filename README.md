@@ -50,6 +50,16 @@
 
 <summary>Mip Map: </summary>
 
+<details>
+
+<summary>Mip Map, наглядный пример</summary>
+
+![image](resources/pictures/MipMap-660x440.png)
+
+</details>
+
+<br />
+
 ###### Есть тяжелая по тем меркам текстура ландшафта 16к х 16к
 > * ! Не влезает в память видеокарты (VRAM)
 > * ! Нужно перерисовывать большой обьем информации
@@ -109,16 +119,6 @@
 </details>
 
 <br />
-
-</details>
-
-<br />
-
-<details>
-
-<summary>Mip Map, наглядный пример</summary>
-
-![image](resources/pictures/MipMap-660x440.png)
 
 </details>
 
