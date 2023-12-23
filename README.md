@@ -70,7 +70,7 @@
 
 <summary>Highmap resolution №2</summary>
 
-![image](resources/pictures/HighResolutionN2-559x396.png)
+![image](resources/pictures/HighResolutionN2-579x396.png)
 
 </details>
 
