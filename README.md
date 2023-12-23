@@ -28,11 +28,11 @@
 
 ##### Хотим отдать задачу «упрощение assets» движку Unreal Engine, чтобы удовлетворить все запросы
 
+[//]: # (--- Конец вкладки: Постановка задачи ---)
+
 <br />
 
 </details>
-
-[//]: # (--- Следующая вкладка ---)
 
 <details>
 
@@ -52,13 +52,13 @@
 
 <details>
 
-<summary>Mip Map, наглядный пример</summary>
+<summary>Наглядный пример</summary>
 
 ![image](resources/pictures/MipMap-660x440.png)
 
-</details>
+[//]: # (--- Конец вкладки: Наглядный пример ---)
 
-<br />
+</details>
 
 ###### Есть тяжелая по тем меркам текстура ландшафта 16к х 16к
 > * ! Не влезает в память видеокарты (VRAM)
@@ -69,6 +69,8 @@
 <summary>Highmap resolution №1</summary>
 
 ![image](resources/pictures/HighResolutionN1-581x430.png)
+
+[//]: # (--- Конец вкладки: Highmap resolution №1 ---)
 
 </details>
 
@@ -86,6 +88,8 @@
 
 ![image](resources/pictures/HighResolutionN2-579x396.png)
 
+[//]: # (--- Конец вкладки: Highmap resolution №2 ---)
+
 </details>
 
 <br />
@@ -98,6 +102,8 @@
 <summary>Highmap resolution №3</summary>
 
 ![image](resources/pictures/HighResolutionN3-681x544.png)
+
+[//]: # (--- Конец вкладки: Highmap resolution №3 ---)
 
 </details>
 
@@ -112,23 +118,37 @@
 
 <details>
 
-<summary>Highmap resolution №3</summary>
+<summary>Highmap resolution №4</summary>
 
 ![image](resources/pictures/HighResolutionN4-666x516.png)
 
-</details>
-
-<br />
+[//]: # (--- Конец вкладки: Highmap resolution №4 ---)
 
 </details>
 
 <br />
 
+[//]: # (--- Конец вкладки: Mip Map ---)
+
 </details>
 
 <br />
 
-[//]: # (--- Следующая вкладка ---)
+<details>
+
+<summary>Рендер</summary>
+
+[//]: # (--- Рендер ---)
+
+</details>
+
+<br />
+
+[//]: # (--- Конец вкладки: Виртуальные текстуры: почему задача решаема ---)
+
+</details>
+
+<br />
 
 - - -
 
