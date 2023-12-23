@@ -1,6 +1,4 @@
-# Nanite 
-
-# ![image](resources/pictures/UnrealEngine-128x128.png)
+# ![image](resources/pictures/UnrealEngine-128x128.png) Nanite 
 
 ##### ![image](resources/pictures/Youtube-20x16.png) Nikolai Poliarnyi :
 ###### *Как работает Nanite в Unreal Engine 5*
