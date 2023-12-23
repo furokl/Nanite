@@ -46,7 +46,10 @@
 
 <br />
 
-##### Пример: 
+<details>
+
+<summary>Пример: </summary>
+
 ###### Есть тяжелая по тем меркам текстура ландшафта 16к х 16к
 > * ! Не влезает в память видеокарты (VRAM)
 > * ! Нужно перерисовывать большой обьем информации
@@ -102,6 +105,10 @@
 <summary>Highmap resolution №3</summary>
 
 ![image](resources/pictures/HighResolutionN4-666x516.png)
+
+</details>
+
+<br />
 
 </details>
 
