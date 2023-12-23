@@ -37,6 +37,7 @@
 #### Id Tech
 ###### Компания, разработавшая популярные игры, засчет технологического прорыва:
 > Doom, Quake, Rage
+> <ins>Underlined Heading 1</ins>
 
 </details>
 
