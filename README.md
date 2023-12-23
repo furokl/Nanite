@@ -2,7 +2,7 @@
 
 ##### Автор - Nikolai Poliarnyi :
 ###### *Как работает Nanite в Unreal Engine 5*
-![image](resources/pictures/Youtube-112x30.png)
+![image](resources/pictures/Youtube-20x16.png)
 - - -
 
 <details>
