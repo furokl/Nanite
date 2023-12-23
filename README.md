@@ -4,6 +4,24 @@
 ###### *Как работает Nanite в Unreal Engine 5*
 [![N|Solid](https://opengameart.org/sites/default/files/forum-attachments/Shark1.png)](https://www.youtube.com/watch?v=ltUzX1IR9JI&ab_channel=NikolaiPoliarnyi)
 
+<details>
+<summary>Список модов (Клиент):</summary>
+
+| Название | Описание |
+| ------ | ------ |
+|Better Animations|Животные чуть интересней|
+|Better FPS|Ускорение фпс засчет кругового рендера|
+|Dark Mode Everywhere|Темная тема|
+|Distant Friends|Фантом "игрока", следящего за вами|
+|Enchantment Descriptions|Добавляет описание зачарам|
+|JEI|Рецепты и вроде бы F7 освещение|
+|Physics Mod|Разрушаемость, смерть монстров|
+|Optifine|Светит факел в руке|
+|ReBlured|Размытие в инвентаре (фокус)|
+|Xaero's Minimap|Карта (! без пещер и мобов !)|
+
+</details>
+
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 
