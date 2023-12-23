@@ -7,18 +7,17 @@
 <details>
 <summary>Список модов (Клиент):</summary>
 
-| Название | Описание |
+>>> Постановка задачи, мечта
+>> s
+> s
+| Кино | Игры |
 | ------ | ------ |
-|Better Animations|Животные чуть интересней|
-|Better FPS|Ускорение фпс засчет кругового рендера|
-|Dark Mode Everywhere|Темная тема|
-|Distant Friends|Фантом "игрока", следящего за вами|
-|Enchantment Descriptions|Добавляет описание зачарам|
-|JEI|Рецепты и вроде бы F7 освещение|
-|Physics Mod|Разрушаемость, смерть монстров|
-|Optifine|Светит факел в руке|
-|ReBlured|Размытие в инвентаре (фокус)|
-|Xaero's Minimap|Карта (! без пещер и мобов !)|
+| Offline | Realtime 1/60 |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 </details>
 
