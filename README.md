@@ -3,7 +3,7 @@
 ##### Автор - Nikolai Poliarnyi :
 ###### *Как работает Nanite в Unreal Engine 5*
 [![N|Solid](https://opengameart.org/sites/default/files/forum-attachments/Shark1.png)](https://www.youtube.com/watch?v=ltUzX1IR9JI&ab_channel=NikolaiPoliarnyi)
-
+![image](resources/pictures/Youtube-112x30.png)
 - - -
 
 <details>
