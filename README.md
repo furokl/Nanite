@@ -3,7 +3,7 @@
         Nanitе
     </div>
     <div style="float: right;">
-        ![image](resources/pictures/UnrealEngine-128x128.png)
+        <img src="resources/pictures/UnrealEngine-128x128.png" alt="Unreal Engine">
     </div>
 </div>
 
