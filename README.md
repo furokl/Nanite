@@ -9,7 +9,6 @@
 - - -
 
 <details>
-
 <summary>Постановка задачи / мечта</summary>
 
 |  | Кино | Игры|
@@ -35,7 +34,6 @@
 </details>
 
 <details>
-
 <summary>Виртуальные текстуры: почему задача решаема</summary>
 
 #### Id Tech
@@ -47,13 +45,11 @@
 <br />
 
 <details>
-
 <summary>Mip Map: </summary>
 
 <br />
 
 <details>
-
 <summary>Наглядный пример Mip Map</summary>
 
 ![MipMap](resources/pictures/MipMap-660x440.png)
@@ -67,7 +63,6 @@
 > * ! Нужно перерисовывать большой обьем информации
 
 <details>
-
 <summary>Highmap resolution №1</summary>
 
 ![HighResolutionN1](resources/pictures/HighResolutionN1-581x430.png)
@@ -85,7 +80,6 @@
 ###### *<ins>Mip Map</ins> - Версия текстуры у которой есть разные уровни детализации* 
 
 <details>
-
 <summary>Highmap resolution №2</summary>
 
 ![HighResolutionN2](resources/pictures/HighResolutionN2-579x396.png)
@@ -100,7 +94,6 @@
 > ! Теперь необходимо иметь несколько сжатых версий одной и той же текстуры
 
 <details>
-
 <summary>Highmap resolution №3</summary>
 
 ![HighResolutionN3](resources/pictures/HighResolutionN3-681x544.png)
@@ -119,7 +112,6 @@
 > * ! Мы предполагаем, что кто-то сам положит в видеопамять эти окрестности
 
 <details>
-
 <summary>Highmap resolution №4</summary>
 
 ![HighResolutionN4](resources/pictures/HighResolutionN4-666x516.png)
@@ -135,7 +127,6 @@
 </details>
 
 <details>
-
 <summary>Рендер</summary>
 
 ###### 1. Первый проход (GPU)
@@ -145,7 +136,6 @@
 > * Знаем уровень Mip Map
 
 <details>
-
 <summary>Render №1</summary>
 
 ![RenderN1](resources/pictures/RenderN1-590x337.png)
@@ -160,7 +150,6 @@
 >> Если её нет, инициализируем эту информацию.
 
 <details>
-
 <summary>Render №2</summary>
 
 ![RenderN2](resources/pictures/RenderN2-741x375.png)
@@ -179,7 +168,6 @@
 >> * Повезло, если текстура влезла в оперативную память, PCI-E шина может и справится; но <ins>придется ограничивать свободу художника</ins>
 
 <details>
-
 <summary>Render №3</summary>
 
 ![RenderN3](resources/pictures/RenderN3-464x346.png)
@@ -206,7 +194,6 @@
 </details>
 
 <details>
-
 <summary>Почему с геометрией задача сложнее</summary>
 
 [//]: # (--- Конец вкладки: Почему с геометрией задача сложнее ---)
