@@ -66,7 +66,7 @@
 <details>
 <summary>Highmap resolution №1</summary>
 
-![HighResolutionN1](furokl/Nanite/blob/main/resources/pictures/HighResolutionN1-581x430.png)
+![HighResolutionN1](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN1-581x430.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №1 ---)
 
