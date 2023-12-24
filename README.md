@@ -46,7 +46,11 @@
 <br />
 
 <details>
-<summary>Mip Map: </summary>
+<summary>
+
+###### Mip Map:
+
+</summary>
 
 <br />
 
@@ -146,7 +150,11 @@
 </details>
 
 <details>
-<summary>Рендер</summary>
+<summary>
+
+###### Рендер
+
+</summary>
 
 ###### 1. Первый проход (GPU)
 ###### Мы смотрим на объект и проецируем его на экран
@@ -318,7 +326,11 @@
 
 <details>
 
-<summary>Кластеризация</summary>
+<summary>
+
+###### Кластеризация
+
+</summary>
 
 ###### Объединим треугольники по 128, каждую такую область возьмем в Bounding Box
 > * Если Box не подходит - делаем frusting culling для всех треугольников
@@ -343,7 +355,11 @@
 
 <details>
 
-<summary>Иерархический Z Buffer</summary>
+<summary>
+
+###### Иерархический Z Buffer
+
+</summary>
 
 ###### Представим, что у нас появилось видение с различными глубинами
 ###### Возьмем тот же кластер Bounding Box в Depth Buffer
