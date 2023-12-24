@@ -74,7 +74,7 @@
 <details>
 <summary>
 
-###### Highmap resolution №1
+###### (Смотреть изображение)
 
 </summary>
 
@@ -95,7 +95,7 @@
 <details>
 <summary>
 
-###### Highmap resolution №2
+###### (Смотреть изображение)
 
 </summary>
 
@@ -113,7 +113,7 @@
 <details>
 <summary>
 
-###### Highmap resolution №3
+###### (Смотреть изображение)
 
 </summary>
 
@@ -135,7 +135,7 @@
 <details>
 <summary>
 
-###### Highmap resolution №4
+###### (Смотреть изображение)
 
 </summary>
 
@@ -165,7 +165,7 @@
 <details>
 <summary>
 
-###### Render №1
+###### (Смотреть изображение)
 
 </summary>
 
@@ -183,7 +183,7 @@
 <details>
 <summary>
 
-###### Render №2
+###### (Смотреть изображение)
 
 </summary>
 
@@ -205,7 +205,7 @@
 <details>
 <summary>
 
-###### Render №3
+###### (Смотреть изображение)
 
 </summary>
 
@@ -264,7 +264,7 @@
 <details>
 <summary>
 
-###### Pipeline №1
+###### (Смотреть изображение)
 
 </summary>
 
@@ -285,7 +285,7 @@
 <details>
 <summary>
 
-###### Pipeline №2
+###### (Смотреть изображение)
 
 </summary>
 
@@ -339,7 +339,7 @@
 <details>
 <summary>
 
-###### Кластеризация
+###### (Смотреть изображение)
 
 </summary>
 
@@ -373,7 +373,7 @@
 <details>
 <summary>
 
-###### Иерархический Z Buffer
+###### (Смотреть изображение)
 
 </summary>
 
