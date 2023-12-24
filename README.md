@@ -46,7 +46,11 @@
 <br />
 
 <details>
-<summary>Mip Map: </summary>
+<summary>
+
+## Mip Map: 
+
+</summary>
 
 <br />
 
