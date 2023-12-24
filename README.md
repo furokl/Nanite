@@ -331,10 +331,6 @@
 
 </details>
 
-[//]: # (--- Конец вкладки: Отпимизация ---)
-
-</details>
-
 ###### **2. Иерархический Depth Buffer**
 ###### Представим, что у нас появилось видение с различными глубинами
 ###### Возьмем тот же кластер Bounding Box в Depth Buffer
@@ -355,6 +351,10 @@
 ![HierarhicalBuffer](https://github.com/furokl/Nanite/blob/main/resources/pictures/HierarhicalBuffer-112x30.png)
 
 [//]: # (--- Конец вкладки: Иерархический Depth Buffer ---)
+
+</details>
+
+[//]: # (--- Конец вкладки: Отпимизация ---)
 
 </details>
 
