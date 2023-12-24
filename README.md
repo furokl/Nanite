@@ -46,10 +46,8 @@
 <br />
 
 <details>
-<summary style="margin-top: 0; margin-bottom: 0;">
-
+<summary>
 ###### Mip Map:
-
 </summary>
 
 <br />
@@ -150,10 +148,8 @@
 </details>
 
 <details>
-<summary style="margin-top: 0; margin-bottom: 0;">
-
+<summary>
 ###### Рендер
-
 </summary>
 
 ###### 1. Первый проход (GPU)
