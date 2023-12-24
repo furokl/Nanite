@@ -247,7 +247,9 @@
 ###### (Камера игрока смотрит на вход в пещеру)
 ###### Видеокарта, с наивной точки зрения, пытается проицировать ВСЮ пещеру на экран, но мы видим лишь ближайшую поверхность
 
-###### 1. Vertex shader
+<br />
+
+###### **1. Vertex shader**
 
 <details>
 <summary>
@@ -256,7 +258,7 @@
 
 </summary>
 
-![RenderN3](https://github.com/furokl/Nanite/blob/main/resources/pictures/PipelineN1-464x250.png)
+![PipelineN1](https://github.com/furokl/Nanite/blob/main/resources/pictures/PipelineN1-464x250.png)
 
 [//]: # (--- Конец вкладки: Pipeline №1 ---)
 
@@ -268,9 +270,35 @@
 ###### Также изображение, находящееся за пределами угла обзора, не будет расчитываться
 ###### *<ins>Frustum culling</ins> - отсечение геометрии вне видимости игрока*
 
-###### 2. Rasterization
+<br />
+
+<details>
+<summary>
+
+###### Pipeline №2
+
+</summary>
+
+![PipelineN2](https://github.com/furokl/Nanite/blob/main/resources/pictures/PipelineN2-218x90.png)
+
+[//]: # (--- Конец вкладки: Pipeline №2 ---)
+
+</details>
+
+###### **2. Rasterization**
 
 ###### *<ins>Rasterization</ins> - преобразует каждый треугольник в фрагменты (набор пикселей)*
+###### У нас есть информация о трех вершинах и нам интересны пиксели находящиеся в треугольнике
+
+###### **3. Fragment Shader**
+
+###### *<ins>Fragment Shader</ins> - обрабатывает отдельные фрагменты, строя корректное изображение*
+###### Шейдер расчитывает такие параметры как:
+> * Z
+> * UV
+> * Color
+> * Lighting
+>> И на выходе получаем RGB, если победили по <ins>Z-тесту</ins>
 
 [//]: # (--- Конец вкладки: Этапы стандартного пайплайна отрисовки ---)
 
