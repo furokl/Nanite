@@ -59,7 +59,7 @@
 
 ![MipMap](https://github.com/furokl/Nanite/blob/main/resources/pictures/MipMap-660x440.png)
 
-[//]: # (--- Конец вкладки: Наглядный пример Mip Map ---)
+[//]: # (--- Конец изображения: Наглядный пример Mip Map ---)
 
 </details>
 
@@ -76,7 +76,7 @@
 
 ![HighResolutionN1](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN1-581x430.png)
 
-[//]: # (--- Конец вкладки: Highmap resolution №1 ---)
+[//]: # (--- Конец изображения: Highmap resolution №1 ---)
 
 </details>
 
@@ -97,7 +97,7 @@
 
 ![HighResolutionN2](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN2-579x396.png)
 
-[//]: # (--- Конец вкладки: Highmap resolution №2 ---)
+[//]: # (--- Конец изображения: Highmap resolution №2 ---)
 
 </details>
 
@@ -115,7 +115,7 @@
 
 ![HighResolutionN3](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN3-681x544.png)
 
-[//]: # (--- Конец вкладки: Highmap resolution №3 ---)
+[//]: # (--- Конец изображения: Highmap resolution №3 ---)
 
 </details>
 
@@ -137,7 +137,7 @@
 
 ![HighResolutionN4](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN4-666x516.png)
 
-[//]: # (--- Конец вкладки: Highmap resolution №4 ---)
+[//]: # (--- Конец изображения: Highmap resolution №4 ---)
 
 </details>
 
@@ -163,7 +163,7 @@
 
 ![RenderN1](https://github.com/furokl/Nanite/blob/main/resources/pictures/RenderN1-590x337.png)
 
-[//]: # (--- Конец вкладки: Render №1 ---)
+[//]: # (--- Конец изображения: Render №1 ---)
 
 </details>
 
@@ -181,7 +181,7 @@
 
 ![RenderN2](https://github.com/furokl/Nanite/blob/main/resources/pictures/RenderN2-741x375.png)
 
-[//]: # (--- Конец вкладки: Render №2 ---)
+[//]: # (--- Конец изображения: Render №2 ---)
 
 </details>
 
@@ -203,7 +203,7 @@
 
 ![RenderN3](https://github.com/furokl/Nanite/blob/main/resources/pictures/RenderN3-464x345.png)
 
-[//]: # (--- Конец вкладки: Render №3 ---)
+[//]: # (--- Конец изображения: Render №3 ---)
 
 </details>
 
@@ -260,7 +260,7 @@
 
 ![PipelineN1](https://github.com/furokl/Nanite/blob/main/resources/pictures/PipelineN1-464x250.png)
 
-[//]: # (--- Конец вкладки: Pipeline №1 ---)
+[//]: # (--- Конец изображения: Pipeline №1 ---)
 
 </details>
 
@@ -281,7 +281,7 @@
 
 ![PipelineN2](https://github.com/furokl/Nanite/blob/main/resources/pictures/PipelineN2-218x90.png)
 
-[//]: # (--- Конец вкладки: Pipeline №2 ---)
+[//]: # (--- Конец изображения: Pipeline №2 ---)
 
 </details>
 
@@ -312,7 +312,9 @@
 
 ###### ! Асимптотика Vertex shader вышла O(N), где N - число треугольников, что не может нас устраивать
 
-###### **1. Кластеризация**
+<details>
+
+<summary>Кластеризация</summary>
 
 ###### Объединим треугольники по 128, каждую такую область возьмем в Bounding Box
 > * Если Box не подходит - делаем frusting culling для всех треугольников
@@ -327,11 +329,14 @@
 
 ![Clustering](https://github.com/furokl/Nanite/blob/main/resources/pictures/Clustering-336x393.png)
 
-[//]: # (--- Конец вкладки: Кластеризация ---)
+[//]: # (--- Конец изображения: Кластеризация ---)
 
 </details>
 
-###### **2. Иерархический Depth Buffer**
+<details>
+
+<summary>Иерархический Z Buffer</summary>
+
 ###### Представим, что у нас появилось видение с различными глубинами
 ###### Возьмем тот же кластер Bounding Box в Depth Buffer
 > * Не нужно делать Вершинный шейдер
@@ -344,13 +349,13 @@
 <details>
 <summary>
 
-###### Иерархический Depth Buffer
+###### Иерархический Z Buffer
 
 </summary>
 
 ![HierarhicalBuffer](https://github.com/furokl/Nanite/blob/main/resources/pictures/HierarhicalBuffer-112x30.png)
 
-[//]: # (--- Конец вкладки: Иерархический Depth Buffer ---)
+[//]: # (--- Конец изображения: Иерархический Z Buffer ---)
 
 </details>
 
@@ -371,11 +376,16 @@
 
 ![VR](https://github.com/furokl/Nanite/blob/main/resources/pictures/VR-282x198.png)
 
-[//]: # (--- Конец вкладки: VR ---)
+[//]: # (--- Конец изображения: VR ---)
 
 </details>
 
 ###### Точно также, как с VR: применяем иерархический Z Buffer на основе предыдущего кадра
+> Удобнее запомнить, какие треугольники победили по Z-Тесту на основной части экрана
+
+[//]: # (--- Конец вкладки: Иерархический Z Buffer ---)
+
+</details>
 
 [//]: # (--- Конец вкладки: Оптимизация ---)
 
