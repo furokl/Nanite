@@ -53,7 +53,7 @@
 <details>
 <summary>Наглядный пример Mip Map</summary>
 
-![MipMap](furokl/Nanite/blob/main/resources/pictures/MipMap-660x440.png)
+![MipMap](https://github.com/furokl/Nanite/blob/main/resources/pictures/MipMap-660x440.png)
 
 [//]: # (--- Конец вкладки: Наглядный пример Mip Map ---)
 
@@ -83,7 +83,7 @@
 <details>
 <summary>Highmap resolution №2</summary>
 
-![HighResolutionN2](furokl/Nanite/blob/main/resources/pictures/HighResolutionN2-579x396.png)
+![HighResolutionN2](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN2-579x396.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №2 ---)
 
@@ -97,7 +97,7 @@
 <details>
 <summary>Highmap resolution №3</summary>
 
-![HighResolutionN3](furokl/Nanite/blob/main/resources/pictures/HighResolutionN3-681x544.png)
+![HighResolutionN3](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN3-681x544.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №3 ---)
 
@@ -115,7 +115,7 @@
 <details>
 <summary>Highmap resolution №4</summary>
 
-![HighResolutionN4](furokl/Nanite/blob/main/resources/pictures/HighResolutionN4-666x516.png)
+![HighResolutionN4](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN4-666x516.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №4 ---)
 
@@ -139,7 +139,7 @@
 <details>
 <summary>Render №1</summary>
 
-![RenderN1](furokl/Nanite/blob/main/resources/pictures/RenderN1-590x337.png)
+![RenderN1](https://github.com/furokl/Nanite/blob/main/resources/pictures/RenderN1-590x337.png)
 
 [//]: # (--- Конец вкладки: Render №1 ---)
 
@@ -153,7 +153,7 @@
 <details>
 <summary>Render №2</summary>
 
-![RenderN2](furokl/Nanite/blob/main/resources/pictures/RenderN2-741x375.png)
+![RenderN2](https://github.com/furokl/Nanite/blob/main/resources/pictures/RenderN2-741x375.png)
 
 [//]: # (--- Конец вкладки: Render №2 ---)
 
@@ -171,7 +171,7 @@
 <details>
 <summary>Render №3</summary>
 
-![RenderN3](furokl/Nanite/blob/main/resources/pictures/RenderN3-464x346.png)
+![RenderN3](https://github.com/furokl/Nanite/blob/main/resources/pictures/RenderN3-464x346.png)
 
 [//]: # (--- Конец вкладки: Render №3 ---)
 
