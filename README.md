@@ -1,3 +1,10 @@
+<style>
+    h6 {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+</style>
+
 <p align="right">
 	<img src="resources/pictures/UnrealEngine-128x128.png" alt="Unreal Engine">
 </p>
