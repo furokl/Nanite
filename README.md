@@ -27,7 +27,6 @@
 
 ##### Хотим отдать задачу «упрощение assets» движку Unreal Engine, чтобы удовлетворить все запросы
 
-[//]: # (--- Конец вкладки: Постановка задачи ---)
 
 <br />
 
@@ -55,7 +54,6 @@
 
 ![MipMap](resources/pictures/MipMap-660x440.png)
 
-[//]: # (--- Конец вкладки: Наглядный пример Mip Map ---)
 
 </details>
 
@@ -69,7 +67,6 @@
 
 ![HighResolutionN1](resources/pictures/HighResolutionN1-581x430.png)
 
-[//]: # (--- Конец вкладки: Highmap resolution №1 ---)
 
 </details>
 
@@ -87,7 +84,6 @@
 
 ![HighResolutionN2](resources/pictures/HighResolutionN2-579x396.png)
 
-[//]: # (--- Конец вкладки: Highmap resolution №2 ---)
 
 </details>
 
@@ -102,7 +98,6 @@
 
 ![HighResolutionN3](resources/pictures/HighResolutionN3-681x544.png)
 
-[//]: # (--- Конец вкладки: Highmap resolution №3 ---)
 
 </details>
 
@@ -121,13 +116,11 @@
 
 ![HighResolutionN4](resources/pictures/HighResolutionN4-666x516.png)
 
-[//]: # (--- Конец вкладки: Highmap resolution №4 ---)
 
 </details>
 
 <br />
 
-[//]: # (--- Конец вкладки: Mip Map ---)
 
 </details>
 
@@ -146,7 +139,6 @@
 
 ![RenderN1](resources/pictures/RenderN1-590x337.png)
 
-[//]: # (--- Конец вкладки: Render №1 ---)
 
 </details>
 
@@ -161,7 +153,6 @@
 
 ![RenderN2](resources/pictures/RenderN2-741x375.png)
 
-[//]: # (--- Конец вкладки: Render №2 ---)
 
 </details>
 
@@ -180,7 +171,6 @@
 
 ![RenderN3](resources/pictures/RenderN3-464x346.png)
 
-[//]: # (--- Конец вкладки: Render №3 ---)
 
 </details>
 
@@ -191,20 +181,17 @@
 >> * Если информация о окрестностях есть, заменяем низкодетализированную версию
 ###### *<ins>Streaming</ins> - Процесс запроса + асихронной подргузки*
 
-[//]: # (--- Конец вкладки: Рендер ---)
 
 </details>
 
 <br />
 
-[//]: # (--- Конец вкладки: Виртуальные текстуры: почему задача решаема ---)
 
 </details>
 
 <details>
 <summary>Почему с геометрией задача сложнее</summary>
 
-[//]: # (--- Конец вкладки: Почему с геометрией задача сложнее ---)
 
 </details>
 
