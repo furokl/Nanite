@@ -46,16 +46,16 @@
 <br />
 
 <details>
-<summary>
-
-###### Mip Map: 
-
-</summary>
+<summary>Mip Map: </summary>
 
 <br />
 
 <details>
-<summary>Наглядный пример Mip Map</summary>
+<summary>
+
+###### Наглядный пример Mip Map
+
+</summary>
 
 ![MipMap](https://github.com/furokl/Nanite/blob/main/resources/pictures/MipMap-660x440.png)
 
@@ -68,7 +68,11 @@
 > * ! Нужно перерисовывать большой обьем информации
 
 <details>
-<summary>Highmap resolution №1</summary>
+<summary>
+
+###### Highmap resolution №1
+
+</summary>
 
 ![HighResolutionN1](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN1-581x430.png)
 
@@ -85,7 +89,11 @@
 ###### *<ins>Mip Map</ins> - Версия текстуры у которой есть разные уровни детализации* 
 
 <details>
-<summary>Highmap resolution №2</summary>
+<summary>
+
+###### Highmap resolution №2
+
+</summary>
 
 ![HighResolutionN2](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN2-579x396.png)
 
@@ -99,7 +107,11 @@
 > ! Теперь необходимо иметь несколько сжатых версий одной и той же текстуры
 
 <details>
-<summary>Highmap resolution №3</summary>
+<summary>
+
+###### Highmap resolution №3
+
+</summary>
 
 ![HighResolutionN3](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN3-681x544.png)
 
@@ -117,7 +129,11 @@
 > * ! Мы предполагаем, что кто-то сам положит в видеопамять эти окрестности
 
 <details>
-<summary>Highmap resolution №4</summary>
+<summary>
+
+###### Highmap resolution №4
+
+</summary>
 
 ![HighResolutionN4](https://github.com/furokl/Nanite/blob/main/resources/pictures/HighResolutionN4-666x516.png)
 
@@ -141,7 +157,11 @@
 > * Знаем уровень Mip Map
 
 <details>
-<summary>Render №1</summary>
+<summary>
+
+###### Render №1
+
+</summary>
 
 ![RenderN1](https://github.com/furokl/Nanite/blob/main/resources/pictures/RenderN1-590x337.png)
 
@@ -155,7 +175,11 @@
 >> Если её нет, инициализируем эту информацию.
 
 <details>
-<summary>Render №2</summary>
+<summary>
+
+###### Render №2
+
+</summary>
 
 ![RenderN2](https://github.com/furokl/Nanite/blob/main/resources/pictures/RenderN2-741x375.png)
 
@@ -173,7 +197,11 @@
 >> * Повезло, если текстура влезла в оперативную память, PCI-E шина может и справится; но <ins>придется ограничивать свободу художника</ins>
 
 <details>
-<summary>Render №3</summary>
+<summary>
+
+###### Render №3
+
+</summary>
 
 ![RenderN3](https://github.com/furokl/Nanite/blob/main/resources/pictures/RenderN3-464x346.png)
 
