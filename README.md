@@ -31,7 +31,7 @@
 
 <br />
 
-
+</details>
 
 <details>
 <summary>Виртуальные текстуры: почему задача решаема</summary>
@@ -52,11 +52,12 @@
 <details>
 <summary>Наглядный пример Mip Map</summary>
 
+
 ![MipMap](resources/pictures/MipMap-660x440.png)
 
 [//]: # (--- Конец вкладки: Наглядный пример Mip Map ---)
 
-
+</details>
 
 ###### Есть тяжелая по тем меркам текстура ландшафта 16к х 16к
 > * ! Не влезает в память видеокарты (VRAM)
@@ -65,11 +66,12 @@
 <details>
 <summary>Highmap resolution №1</summary>
 
+
 ![HighResolutionN1](resources/pictures/HighResolutionN1-581x430.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №1 ---)
 
-
+</details>
 
 <br />
 
@@ -82,11 +84,12 @@
 <details>
 <summary>Highmap resolution №2</summary>
 
+
 ![HighResolutionN2](resources/pictures/HighResolutionN2-579x396.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №2 ---)
 
-
+</details>
 
 <br />
 
@@ -96,11 +99,12 @@
 <details>
 <summary>Highmap resolution №3</summary>
 
+
 ![HighResolutionN3](resources/pictures/HighResolutionN3-681x544.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №3 ---)
 
-
+</details>
 
 <br />
 
@@ -114,17 +118,18 @@
 <details>
 <summary>Highmap resolution №4</summary>
 
+
 ![HighResolutionN4](resources/pictures/HighResolutionN4-666x516.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №4 ---)
 
-
+</details>
 
 <br />
 
 [//]: # (--- Конец вкладки: Mip Map ---)
 
-
+</details>
 
 <details>
 <summary>Рендер</summary>
@@ -138,11 +143,12 @@
 <details>
 <summary>Render №1</summary>
 
+
 ![RenderN1](resources/pictures/RenderN1-590x337.png)
 
 [//]: # (--- Конец вкладки: Render №1 ---)
 
-
+</details>
 
 ###### 2. Второй проход (CPU)
 ###### Процессор смотрит на картину: там перечислено, что нужно для построения кадра
@@ -152,11 +158,12 @@
 <details>
 <summary>Render №2</summary>
 
+
 ![RenderN2](resources/pictures/RenderN2-741x375.png)
 
 [//]: # (--- Конец вкладки: Render №2 ---)
 
-
+</details>
 
 ###### 3. Третий проход
 ###### Мы гарантировали, что вся информация на картинке прогружена
@@ -170,11 +177,12 @@
 <details>
 <summary>Render №3</summary>
 
+
 ![RenderN3](resources/pictures/RenderN3-464x346.png)
 
 [//]: # (--- Конец вкладки: Render №3 ---)
 
-
+</details>
 
 ###### Что делать?
 ###### Пусть инициализация подгрузки будет происходить асихронно
@@ -185,20 +193,20 @@
 
 [//]: # (--- Конец вкладки: Рендер ---)
 
-
+</details>
 
 <br />
 
 [//]: # (--- Конец вкладки: Виртуальные текстуры: почему задача решаема ---)
 
-
+</details>
 
 <details>
 <summary>Почему с геометрией задача сложнее</summary>
 
 [//]: # (--- Конец вкладки: Почему с геометрией задача сложнее ---)
 
-
+</details>
 
 <br />
 
