@@ -148,8 +148,8 @@
 </details>
 
 <details>
-<summary>
-###### Рендер
+<summary style="color: #ff0000;>
+Рендер
 </summary>
 
 ###### 1. Первый проход (GPU)
