@@ -4,7 +4,7 @@
 
 # Nanite
 
-##### ![image](resources/pictures/Youtube-20x16.png) Nikolai Poliarnyi :
+##### ![Youtube](resources/pictures/Youtube-20x16.png) Nikolai Poliarnyi :
 ###### *Как работает Nanite в Unreal Engine 5*
 - - -
 
@@ -56,7 +56,7 @@
 
 <summary>Наглядный пример Mip Map</summary>
 
-![image](resources/pictures/MipMap-660x440.png)
+![MipMap](resources/pictures/MipMap-660x440.png)
 
 [//]: # (--- Конец вкладки: Наглядный пример Mip Map ---)
 
@@ -70,7 +70,7 @@
 
 <summary>Highmap resolution №1</summary>
 
-![image](resources/pictures/HighResolutionN1-581x430.png)
+![HighResolutionN1](resources/pictures/HighResolutionN1-581x430.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №1 ---)
 
@@ -88,7 +88,7 @@
 
 <summary>Highmap resolution №2</summary>
 
-![image](resources/pictures/HighResolutionN2-579x396.png)
+![HighResolutionN2](resources/pictures/HighResolutionN2-579x396.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №2 ---)
 
@@ -103,7 +103,7 @@
 
 <summary>Highmap resolution №3</summary>
 
-![image](resources/pictures/HighResolutionN3-681x544.png)
+![HighResolutionN3](resources/pictures/HighResolutionN3-681x544.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №3 ---)
 
@@ -122,7 +122,7 @@
 
 <summary>Highmap resolution №4</summary>
 
-![image](resources/pictures/HighResolutionN4-666x516.png)
+![HighResolutionN4](resources/pictures/HighResolutionN4-666x516.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №4 ---)
 
@@ -148,7 +148,7 @@
 
 <summary>Render №1</summary>
 
-![image](resources/pictures/RenderN1-590x337.png)
+![RenderN1](resources/pictures/RenderN1-590x337.png)
 
 [//]: # (--- Конец вкладки: Render №1 ---)
 
@@ -163,7 +163,7 @@
 
 <summary>Render №2</summary>
 
-![image](resources/pictures/RenderN2-741x375.png)
+![RenderN2](resources/pictures/RenderN2-741x375.png)
 
 [//]: # (--- Конец вкладки: Render №2 ---)
 
@@ -182,7 +182,7 @@
 
 <summary>Render №3</summary>
 
-![image](resources/pictures/RenderN3-464x346.png)
+![RenderN3](resources/pictures/RenderN3-464x346.png)
 
 [//]: # (--- Конец вкладки: Render №3 ---)
 
@@ -198,6 +198,8 @@
 [//]: # (--- Конец вкладки: Рендер ---)
 
 </details>
+
+<br />
 
 [//]: # (--- Конец вкладки: Виртуальные текстуры: почему задача решаема ---)
 
