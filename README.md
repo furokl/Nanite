@@ -333,6 +333,10 @@
 
 </details>
 
+[//]: # (--- Конец вкладки: Кластеризация ---)
+
+</details>
+
 <details>
 
 <summary>Иерархический Z Buffer</summary>
