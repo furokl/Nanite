@@ -1,10 +1,10 @@
 <p align="right">
-	<img src="/resources/pictures/UnrealEngine-128x128.png" alt="Unreal Engine">
+	<img src="resources/pictures/UnrealEngine-128x128.png" alt="Unreal Engine">
 </p>
 
 # Nanite
 
-##### ![Youtube](/resources/pictures/Youtube-20x16.png) Nikolai Poliarnyi :
+##### ![Youtube](resources/pictures/Youtube-20x16.png) Nikolai Poliarnyi :
 ###### *Как работает Nanite в Unreal Engine 5*
 - - -
 
@@ -53,7 +53,7 @@
 <details>
 <summary>Наглядный пример Mip Map</summary>
 
-![MipMap](/resources/pictures/MipMap-660x440.png)
+![MipMap](furokl/Nanite/blob/main/resources/pictures/MipMap-660x440.png)
 
 [//]: # (--- Конец вкладки: Наглядный пример Mip Map ---)
 
@@ -66,7 +66,7 @@
 <details>
 <summary>Highmap resolution №1</summary>
 
-![HighResolutionN1](/resources/pictures/HighResolutionN1-581x430.png)
+![HighResolutionN1](furokl/Nanite/blob/main/resources/pictures/HighResolutionN1-581x430.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №1 ---)
 
@@ -83,7 +83,7 @@
 <details>
 <summary>Highmap resolution №2</summary>
 
-![HighResolutionN2](/resources/pictures/HighResolutionN2-579x396.png)
+![HighResolutionN2](furokl/Nanite/blob/main/resources/pictures/HighResolutionN2-579x396.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №2 ---)
 
@@ -97,7 +97,7 @@
 <details>
 <summary>Highmap resolution №3</summary>
 
-![HighResolutionN3](/resources/pictures/HighResolutionN3-681x544.png)
+![HighResolutionN3](furokl/Nanite/blob/main/resources/pictures/HighResolutionN3-681x544.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №3 ---)
 
@@ -115,7 +115,7 @@
 <details>
 <summary>Highmap resolution №4</summary>
 
-![HighResolutionN4](/resources/pictures/HighResolutionN4-666x516.png)
+![HighResolutionN4](furokl/Nanite/blob/main/resources/pictures/HighResolutionN4-666x516.png)
 
 [//]: # (--- Конец вкладки: Highmap resolution №4 ---)
 
@@ -139,7 +139,7 @@
 <details>
 <summary>Render №1</summary>
 
-![RenderN1](/resources/pictures/RenderN1-590x337.png)
+![RenderN1](furokl/Nanite/blob/main/resources/pictures/RenderN1-590x337.png)
 
 [//]: # (--- Конец вкладки: Render №1 ---)
 
@@ -153,7 +153,7 @@
 <details>
 <summary>Render №2</summary>
 
-![RenderN2](/resources/pictures/RenderN2-741x375.png)
+![RenderN2](furokl/Nanite/blob/main/resources/pictures/RenderN2-741x375.png)
 
 [//]: # (--- Конец вкладки: Render №2 ---)
 
@@ -171,7 +171,7 @@
 <details>
 <summary>Render №3</summary>
 
-![RenderN3](/resources/pictures/RenderN3-464x346.png)
+![RenderN3](furokl/Nanite/blob/main/resources/pictures/RenderN3-464x346.png)
 
 [//]: # (--- Конец вкладки: Render №3 ---)
 
