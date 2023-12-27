@@ -476,7 +476,28 @@
 
 [//]: # (--- Конец вкладки: Как упрощать геометрию ---)
 
-###### 1. Edge Collapse (Схлопывание точек)
+###### Edge Collapse (Схлопывание точек)
+###### QSlim, Quadric Error Metrix (QEM), 4x4 matrix Q per vertex V
+
+<details>
+<summary>
+
+###### (Смотреть изображение)
+
+</summary>
+
+![SimpleGeometryN1](https://github.com/furokl/Nanite/blob/main/resources/pictures/SimpleGeometryN1-290x129.png)
+
+[//]: # (--- Конец изображения: SimpleGeometryN1 ---)
+
+</details>
+
+###### Какие ребра надо схлопывать?
+> Те, которые минимально ухудшат качество (нанесут минимальную ошибку)
+###### *<ins>Ошибка</ins> - изменение при схлопывание ребра*
+###### * Вершина - пересечение плоскостей, тогда:
+###### *<ins>Ошибка</ins> - расстояние вершины до всех плоскостей*
+###### $$ Error = Σd^2 $$
 
 </details>
 
